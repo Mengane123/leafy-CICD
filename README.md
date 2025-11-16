@@ -17,8 +17,4 @@ The app provides plant descriptions, care tips, and a simple, elegant interface 
   - Node.js
   - Express.js
 - **Database**:
-<<<<<<< HEAD
-  - MySQL
-=======
   - PostgreSQL
->>>>>>> 04fb9ad (initial commit and added README.md)
